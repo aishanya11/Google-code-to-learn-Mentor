@@ -1,7 +1,7 @@
 # Home-Alone-App
-Mentored Kaustubh to make an App for Google Code to Learn, on MIT App Inventor
+Mentored Kaustubh to make an App for Google Code to Learn, on MIT App Inventor.
 Download the .aia file and import it on MIT App Inventor to see the code
-MIT App Inventor is a platform for younger students to learn block coding by making Apps
+(MIT App Inventor is a platform for younger students to learn block coding by making Apps)
 ## See the full documentation here 
 https://docs.google.com/document/d/1JYSCgXrO0LgCXPqpKfKi60mu0t_kYoTfQx-8v7dKZsk/edit?usp=sharing
 
